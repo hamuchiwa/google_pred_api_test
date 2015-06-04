@@ -7,6 +7,7 @@ The image used in this project was acquired from OpenCV sample folder (opencv/sa
 
 
 Dependencies:
+
 Python 2.7
 Google App Engine
 Google API Python Client
@@ -31,7 +32,9 @@ How to run:
 References:
 
 http://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_ml/py_knn/py_knn_opencv/py_knn_opencv.html#knn-opencv
-https://developers.google.com/api-client-library/python/auth/installed-app
-http://cloudacademy.com/blog/google-prediction-api/
-https://cloud.google.com/prediction/docs/developer-guide
 
+https://developers.google.com/api-client-library/python/auth/installed-app
+
+http://cloudacademy.com/blog/google-prediction-api/
+
+https://cloud.google.com/prediction/docs/developer-guide
