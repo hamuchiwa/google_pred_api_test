@@ -8,10 +8,10 @@ The image used in this project was acquired from OpenCV sample folder (opencv/sa
 
 Dependencies:
 
-Python 2.7
-Google App Engine
-Google API Python Client
-OpenCV
+Python 2.7, 
+Google App Engine, 
+Google API Python Client, 
+OpenCV, 
 NumPy
 
 How to run:
